@@ -17,7 +17,7 @@ Some Features of the app are
 
 ## Technology:
 
-• Frontend: Reactjs,JavaScript,Bootstrap, HTML, CSS
+• Frontend: Reactjs, JavaScript, Bootstrap, HTML, CSS
 
 • Backend: Firebase
 
